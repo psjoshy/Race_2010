@@ -1,0 +1,15 @@
+
+#container {
+	display: block;
+	position: relative;
+	width: 1000px;
+	height: 500px;
+	top: 0px;
+	left: 0px;
+	margin: auto auto;
+	background: url("../images/app_images/skyline.gif") no-repeat 130px -80px;
+}
+
+.pins {
+	background: url("../images/app_images/bg_pins.gif") no-repeat 100px 120px;
+}
